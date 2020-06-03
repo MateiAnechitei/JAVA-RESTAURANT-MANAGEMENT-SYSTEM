@@ -1,0 +1,4 @@
+2020-06-03
+Rosii     2.0
+Pizza     14.0
+Total price: 16.0
